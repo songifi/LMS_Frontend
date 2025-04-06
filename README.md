@@ -23,4 +23,4 @@ A frontend web application built using **Next.js** for the Learning Management S
 2. **Clone the forked repo to your local machine:**
 
 ```bash
-git clone https://github.com/your-username/LMS_Frontend.git
+git clone https://github.com/songfi/LMS_Frontend.git
